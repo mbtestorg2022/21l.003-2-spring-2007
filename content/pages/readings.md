@@ -28,27 +28,222 @@ Wharton, Edith. _The House of Mirth_. New York, NY: Dover Publications, 2002. IS
 Readings by Session
 -------------------
 
-| SES # | ASSIGNED READINGS |
-| --- | --- |
-| 1 | (no readings) |
-| 2-3 | Wharton, _The House of Mirth_ |
-| 4-5 | Lahiri, _Interpreter of Maladies_ |
-| 6-7 | Morrison, _Jazz_ |
-| 8 | Baldwin, _Go Tell it on the Mountain,_ pp. 1-101 |
-| 9 | _Go Tell it on the Mountain_, pp. 102-176 |
-| 10 | _Go Tell it on the Mountain,_ pp. 177-end |
-| 11 | Joyce, _The Dubliners_: "[The Sisters](http://www.sparknotes.com/lit/dubliners/section1.rhtml)," "[Araby](http://www.sparknotes.com/lit/dubliners/section3.rhtml)," "[Eveline](http://www.sparknotes.com/lit/dubliners/section4.rhtml)" |
-| 12 | _The Dubliners_: "[Two Gallants](http://www.sparknotes.com/lit/dubliners/section6.rhtml)," "[A Painful Case](http://www.sparknotes.com/lit/dubliners/section11.rhtml)," "[Ivy Day in the Committee Room](http://www.sparknotes.com/lit/dubliners/section12.rhtml)," "[A Mother](http://www.sparknotes.com/lit/dubliners/section13.rhtml)" |
-| 13 | _The Dubliners_: "[The Dead](http://www.sparknotes.com/lit/dubliners/section15.rhtml)" |
-| 14-15 | Kincaid, _Lucy_ |
-| 16 | Dostoevsky, _Crime and Punishment_ [Part One](http://www.shmoop.com/crime-and-punishment/part-1-chapter-1-full-text.html) |
-| 17 | _Crime and Punishment_ [Part Two](http://www.shmoop.com/crime-and-punishment/part-2-chapter-1-full-text.html) |
-| 18 | _Crime and Punishment_ [Part Three](http://www.shmoop.com/crime-and-punishment/part-3-chapter-1-full-text.html) |
-| 19 | _Crime and Punishment_ [Part Four](http://www.shmoop.com/crime-and-punishment/part-4-chapter-1-full-text.html) |
-| 20 | _Crime and Punishment_ [Part Five](http://www.shmoop.com/crime-and-punishment/part-5-chapter-1-full-text.html) |
-| 21 | _Crime and Punishment_ [Part Six](http://www.shmoop.com/crime-and-punishment/part-6-chapter-1-full-text.html) and [Epilogue](http://www.sparknotes.com/lit/crime/section13.rhtml) |
-| 22 | Roy, _The God of Small Things,_ pp. 3-147 |
-| 23 | _The God of Small Things,_ pp. 148-253 |
-| 24 | _The God of Small Things,_ pp. 254-end |
-| 25 | Díaz. _Drown_: "Ysrael," "Fiesta, 1980," "Drown" |
-| 26 |  {{< br >}}{{< br >}} _Drown_: "Boyfriend," "How to Date a Browngirl, Blackgirl, Whitegirl, or Halfie," "Negocios" {{< br >}}{{< br >}} Listen to Díaz read "How to Date a Browngirl, Blackgirl, Whitegirl, or Halfie" in Act Two of Episode 94 of the radio show [_This American Life_](http://www.thisamericanlife.org/Radio_Episode.aspx?sched=771). {{< br >}}{{< br >}}
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+ASSIGNED READINGS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+(no readings)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2-3
+{{< tdclose >}}
+{{< tdopen >}}
+Wharton, _The House of Mirth_
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4-5
+{{< tdclose >}}
+{{< tdopen >}}
+Lahiri, _Interpreter of Maladies_
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6-7
+{{< tdclose >}}
+{{< tdopen >}}
+Morrison, _Jazz_
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Baldwin, _Go Tell it on the Mountain,_ pp. 1-101
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+_Go Tell it on the Mountain_, pp. 102-176
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+_Go Tell it on the Mountain,_ pp. 177-end
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Joyce, _The Dubliners_: "[The Sisters](http://www.sparknotes.com/lit/dubliners/section1.rhtml)," "[Araby](http://www.sparknotes.com/lit/dubliners/section3.rhtml)," "[Eveline](http://www.sparknotes.com/lit/dubliners/section4.rhtml)"
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+_The Dubliners_: "[Two Gallants](http://www.sparknotes.com/lit/dubliners/section6.rhtml)," "[A Painful Case](http://www.sparknotes.com/lit/dubliners/section11.rhtml)," "[Ivy Day in the Committee Room](http://www.sparknotes.com/lit/dubliners/section12.rhtml)," "[A Mother](http://www.sparknotes.com/lit/dubliners/section13.rhtml)"
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+_The Dubliners_: "[The Dead](http://www.sparknotes.com/lit/dubliners/section15.rhtml)"
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14-15
+{{< tdclose >}}
+{{< tdopen >}}
+Kincaid, _Lucy_
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+16
+{{< tdclose >}}
+{{< tdopen >}}
+Dostoevsky, _Crime and Punishment_ [Part One](http://www.shmoop.com/crime-and-punishment/part-1-chapter-1-full-text.html)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+17
+{{< tdclose >}}
+{{< tdopen >}}
+_Crime and Punishment_ [Part Two](http://www.shmoop.com/crime-and-punishment/part-2-chapter-1-full-text.html)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+18
+{{< tdclose >}}
+{{< tdopen >}}
+_Crime and Punishment_ [Part Three](http://www.shmoop.com/crime-and-punishment/part-3-chapter-1-full-text.html)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+19
+{{< tdclose >}}
+{{< tdopen >}}
+_Crime and Punishment_ [Part Four](http://www.shmoop.com/crime-and-punishment/part-4-chapter-1-full-text.html)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+20
+{{< tdclose >}}
+{{< tdopen >}}
+_Crime and Punishment_ [Part Five](http://www.shmoop.com/crime-and-punishment/part-5-chapter-1-full-text.html)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+21
+{{< tdclose >}}
+{{< tdopen >}}
+_Crime and Punishment_ [Part Six](http://www.shmoop.com/crime-and-punishment/part-6-chapter-1-full-text.html) and [Epilogue](http://www.sparknotes.com/lit/crime/section13.rhtml)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+22
+{{< tdclose >}}
+{{< tdopen >}}
+Roy, _The God of Small Things,_ pp. 3-147
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+23
+{{< tdclose >}}
+{{< tdopen >}}
+_The God of Small Things,_ pp. 148-253
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+24
+{{< tdclose >}}
+{{< tdopen >}}
+_The God of Small Things,_ pp. 254-end
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+25
+{{< tdclose >}}
+{{< tdopen >}}
+Díaz. _Drown_: "Ysrael," "Fiesta, 1980," "Drown"
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+26
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+_Drown_: "Boyfriend," "How to Date a Browngirl, Blackgirl, Whitegirl, or Halfie," "Negocios"
+
+Listen to Díaz read "How to Date a Browngirl, Blackgirl, Whitegirl, or Halfie" in Act Two of Episode 94 of the radio show [_This American Life_](http://www.thisamericanlife.org/Radio_Episode.aspx?sched=771).
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}

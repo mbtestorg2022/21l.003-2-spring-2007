@@ -22,12 +22,57 @@ As a HASS-D, CI-H (Humanities, Arts, and Social Sciences-Distribution, Communica
 Course Expectations and Grading
 -------------------------------
 
-| REQUIREMENTS | PERCENTAGES |
-| --- | --- |
-| Class participation | 15% |
-| Four papers (15% each) | 60% |
-| Revision of a paper | 15% |
-| Oral presentations | 10% 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+REQUIREMENTS
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Class participation
+{{< tdclose >}}
+{{< tdopen >}}
+15%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Four papers (15% each)
+{{< tdclose >}}
+{{< tdopen >}}
+60%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Revision of a paper
+{{< tdclose >}}
+{{< tdopen >}}
+15%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Oral presentations
+{{< tdclose >}}
+{{< tdopen >}}
+10%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 ### Class Participation
 
@@ -57,15 +102,171 @@ Calendar
 
 Please see [readings]({{< baseurl >}}/pages/readings) for more detailed information about the texts mentioned below.
 
-| SES # | TOPICS | KEY DATES |
-| --- | --- | --- |
-| 1 | Introduction | &nbsp; |
-| 2-3 | Wharton, _The House of Mirth_ | Group presentation sign-up in Ses #3 |
-| 4-5 | Lahiri, _Interpreter of Maladies_ | &nbsp; |
-| 6-7 | Morrison, _Jazz_ |  {{< br >}}{{< br >}} Paper 1 due in Ses #6 {{< br >}}{{< br >}} _Jazz_ group presentation in Ses #7 {{< br >}}{{< br >}}  |
-| 8-10 | Baldwin, _Go Tell it on the Mountain_ | _Go Tell it on the Mountain_ group presentation in Ses #10 |
-| 11-13 | Joyce, _The Dubliners_ |  {{< br >}}{{< br >}} _The Dubliners_ group presentation in Ses #12 {{< br >}}{{< br >}} Paper 2 due in Ses #13 {{< br >}}{{< br >}}  |
-| 14-15 | Kincaid, _Lucy_ | _Lucy_ group presentation in Ses #15 |
-| 16-21 | Dostoevsky, _Crime and Punishment_ |  {{< br >}}{{< br >}} Paper 3 due in Ses #17 {{< br >}}{{< br >}} _Crime and Punishment_ group presentations in Ses #18 and Ses #20 {{< br >}}{{< br >}}  |
-| 22-24 | Roy, _The God of Small Things_ |  {{< br >}}{{< br >}} Paper 4 due in Ses #22 {{< br >}}{{< br >}} _The God of Small Things_ group presentation in Ses #23 {{< br >}}{{< br >}}  |
-| 25-26 | Díaz, _Drown_ |  {{< br >}}{{< br >}} Revision paper due in Ses #26 {{< br >}}{{< br >}} _Drown_ group presentation in Ses #26 {{< br >}}{{< br >}}
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+KEY DATES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2-3
+{{< tdclose >}}
+{{< tdopen >}}
+Wharton, _The House of Mirth_
+{{< tdclose >}}
+{{< tdopen >}}
+Group presentation sign-up in Ses #3
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4-5
+{{< tdclose >}}
+{{< tdopen >}}
+Lahiri, _Interpreter of Maladies_
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6-7
+{{< tdclose >}}
+{{< tdopen >}}
+Morrison, _Jazz_
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Paper 1 due in Ses #6
+
+_Jazz_ group presentation in Ses #7
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8-10
+{{< tdclose >}}
+{{< tdopen >}}
+Baldwin, _Go Tell it on the Mountain_
+{{< tdclose >}}
+{{< tdopen >}}
+_Go Tell it on the Mountain_ group presentation in Ses #10
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11-13
+{{< tdclose >}}
+{{< tdopen >}}
+Joyce, _The Dubliners_
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+_The Dubliners_ group presentation in Ses #12
+
+Paper 2 due in Ses #13
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14-15
+{{< tdclose >}}
+{{< tdopen >}}
+Kincaid, _Lucy_
+{{< tdclose >}}
+{{< tdopen >}}
+_Lucy_ group presentation in Ses #15
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+16-21
+{{< tdclose >}}
+{{< tdopen >}}
+Dostoevsky, _Crime and Punishment_
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Paper 3 due in Ses #17
+
+_Crime and Punishment_ group presentations in Ses #18 and Ses #20
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+22-24
+{{< tdclose >}}
+{{< tdopen >}}
+Roy, _The God of Small Things_
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Paper 4 due in Ses #22
+
+_The God of Small Things_ group presentation in Ses #23
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+25-26
+{{< tdclose >}}
+{{< tdopen >}}
+Díaz, _Drown_
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Revision paper due in Ses #26
+
+_Drown_ group presentation in Ses #26
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
